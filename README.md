@@ -1,2 +1,0 @@
-# encuestahcg
-Begin app
